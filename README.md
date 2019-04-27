@@ -6,33 +6,33 @@ Design Patterns
 
 Creational Patterns
 -------------------
-# Factory (method)
-# Abstract factory
-# Builder
-# Prototype
-# Singleton
+### Factory (method)
+### Abstract factory
+### Builder
+### Prototype
+### Singleton
 
 Structural Patterns
 -------------------
-# Adapter
-# Bridge
-# Composite
-# Decorator
-# Facade
-# Flyweight
-# Proxy
+### Adapter
+### Bridge
+### Composite
+### Decorator
+### Facade
+### Flyweight
+### Proxy
 
 Behavioral Patterns
 -------------------
-# Chain of Responsibility
-# Command
-# Interpreter
-# Iterator
-# Mediator
-# Memento
-# Observer
-# State
-# Strategy
-# Template method
-# Visitor
+### Chain of Responsibility
+### Command
+### Interpreter
+### Iterator
+### Mediator
+### Memento
+### Observer
+### State
+### Strategy
+### Template method
+### Visitor
 
